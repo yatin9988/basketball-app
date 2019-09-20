@@ -68,7 +68,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="+3POINTS"
+            android:text="3POINTS"
             android:onClick="add3forB"/>
         <Button
             android:layout_width="match_parent"
